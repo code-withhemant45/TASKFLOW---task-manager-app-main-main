@@ -51,6 +51,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-through platforms like netlify and vercel.
+- live link https://taskflow-task-manager-app-main-main.vercel.app/
+
 
